@@ -112,7 +112,7 @@ cargo run -- async-consumer
 - Supports delivery reports
 - Ideal for real-time streaming
 
-## 🔗 Referensi
+## 🔗 Reference
 
 Full article:
 [Adding SASL/PLAIN Authentication to Rust Clients with rust-rdkafka](https://andriantriputra.medium.com/be-rust-kafka-adding-sasl-plain-authentication-to-rust-clients-with-rust-rdkafka-d3c6f4cc7591)
